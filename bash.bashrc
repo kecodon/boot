@@ -1,4 +1,5 @@
 termux-wake-lock
+sshd
 ./start-ubuntu.sh
 #echo "( ~~Tool auto start mining ~~ )";
 #sleep 3
